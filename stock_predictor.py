@@ -12,7 +12,7 @@ import sys
 def get_requested_stock_company():
     parser = argparse.ArgumentParser()
 
-    parser.add_argument('company_abbr', type=str)
+    parser.add_argument('company_abbr')
     arg = parser.parse_args()
 
     return arg.company_abbr.upper()
