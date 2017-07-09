@@ -3,11 +3,11 @@ This program predicts near future closing stock prices and plots them on a graph
 
 # Dependencies
   * install anaconda (https://www.continuum.io/anaconda-overview)
-  - or all of the following:
+  or all of the following:
   * matplotlib (https://matplotlib.org/)
   * sklearn (http://scikit-learn.org/stable/)
   * numpy (http://www.numpy.org/)
-  - and:
+  and:
   * pandas_datareader (use pip)
 
 # Command Line Argument
